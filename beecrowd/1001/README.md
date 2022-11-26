@@ -14,11 +14,13 @@ Obs.: don't forget the endline after all.
 
 | Samples Input | Samples Output |
 | ------------- | -------------- |
-| 10            | X = 19         |
-| 9             |<tr></tr>
+| 10            | X = 19         |<tr></tr>
+| 9             |
+|               |                |<tr></tr>
 | -10           | X = -6         |
 | 4             |<tr></tr>
-| 15            | X = 8          |
+|               |                |
+| 15            | X = 8          |<tr></tr>
 | -7            |                |
 
 <table>

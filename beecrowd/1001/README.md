@@ -12,16 +12,6 @@ Read 2 variables, named **A** and **B** and make the **sum** of these two variab
 
 Obs.: don't forget the endline after all.
 
-| Samples Input | Samples Output |
-| ------------- | -------------- |
-| 10            | X = 19         |<tr></tr>
-| 9             |<tr></tr>
-|               |                |<tr></tr>
-| -10           | X = -6         |<tr></tr>
-| 4             |<tr></tr>
-|               |                |<tr></tr>
-| 15            | X = 8          |<tr></tr>
-| -7            |                |<tr></tr>
 
 <table >
     <tr>
@@ -59,5 +49,5 @@ Obs.: don't forget the endline after all.
     <tr>
         <td>-7</td>
         <td></td>
-    </tr><tr></tr>
+    </tr>
 </table>

@@ -15,53 +15,49 @@ Obs.: don't forget the endline after all.
 | Samples Input | Samples Output |
 | ------------- | -------------- |
 | 10            | X = 19         |
-<tr>               </tr>
 | 9             |
 |               |                |
-<tr>                </tr>
 | -10           | X = -6         |
 | 4             |
-<tr>                  </tr>
 |               |                |
 | 15            | X = 8          |
-<tr>            </tr>
 | -7            |                |
 
-<table>
+<table >
     <tr>
         <th>Samples Input</th>
         <th>Samples Output</th>
-    </tr>
+    </tr><tr></tr>
     <tr>
         <td>10</td>
         <td>X = 19</td>
-    </tr>
+    </tr><tr></tr>
     <tr>
         <td>9</td>
         <td></td>
-    </tr>
+    </tr><tr></tr>
     <tr>
         <td></td>
         <td></td>
-    </tr>
+    </tr><tr></tr>
     <tr>
         <td>-10</td>
         <td>X = -6</td>
-    </tr>
+    </tr><tr></tr>
     <tr>
         <td>4</td>
         <td></td>
-    </tr>
+    </tr><tr></tr>
     <tr>
         <td></td>
         <td></td>
-    </tr>
+    </tr><tr></tr>
     <tr>
         <td>15</td>
         <td>X = 8</td>
-    </tr>
+    </tr><tr></tr>
     <tr>
         <td>-7</td>
         <td></td>
-    </tr>
+    </tr><tr></tr
 </table>

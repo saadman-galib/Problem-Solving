@@ -6,7 +6,7 @@ Read 2 variables, named **A** and **B** and make the **sum** of these two variab
 
 #### The input file will contain **2** integer numbers.
 
----
+
 
 ## Output
 
@@ -14,7 +14,7 @@ Read 2 variables, named **A** and **B** and make the **sum** of these two variab
 
 Obs.: don't forget the endline after all.
 
----
+
 
 | Samples Input | Samples Output |
 | ------------- | -------------- |
@@ -26,4 +26,3 @@ Obs.: don't forget the endline after all.
 |               |                |
 | 15            | X = 8          |
 | -7            |                |
-|               |                |

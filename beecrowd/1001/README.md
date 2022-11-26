@@ -59,5 +59,5 @@ Obs.: don't forget the endline after all.
     <tr>
         <td>-7</td>
         <td></td>
-    </tr><tr></tr
+    </tr><tr></tr>
 </table>

@@ -6,15 +6,11 @@ Read 2 variables, named **A** and **B** and make the **sum** of these two variab
 
 #### The input file will contain **2** integer numbers.
 
-
-
 ## Output
 
 #### Print the letter **X (uppercase)** with a blank space before and after the equal signal followed by the value of **X**, according to the following example.
 
 Obs.: don't forget the endline after all.
-
-
 
 | Samples Input | Samples Output |
 | ------------- | -------------- |
@@ -26,3 +22,42 @@ Obs.: don't forget the endline after all.
 |               |                |
 | 15            | X = 8          |
 | -7            |                |
+
+<table>
+    <tr>
+        <th>Samples Input</th>
+        <th>Samples Output</th>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>X = 19</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>-10</td>
+        <td>X = -6</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td>X = 8</td>
+    </tr>
+    <tr>
+        <td>-7</td>
+        <td></td>
+    </tr>
+</table>

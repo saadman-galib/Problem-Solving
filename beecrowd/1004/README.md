@@ -11,48 +11,48 @@ The input file contains **2** integer numbers.
 Print the message **"PROD"** and PROD according to the following example, with a blank space before and after the equal signal.
 
 <table>
-            <tr>
-                <th>Input Samples</th>
-                <th>Output Samples</th>
-            </tr>
-            <tr></tr>
-            <tr>
-                <td>3</td>
-                <td>PROD = 27</td>
-            </tr>
-            <tr></tr>
-            <tr>
-                <td>9</td>
-                <td></td>
-            </tr>
-            <tr></tr>
-            <tr>
-                <td></td>
-                <td></td>
-            </tr>
-            <tr></tr>
-            <tr>
-                <td>-30</td>
-                <td>PROD = -300</td>
-            </tr>
-            <tr></tr>
-            <tr>
-                <td>10</td>
-                <td></td>
-            </tr>
-            <tr></tr>
-            <tr>
-                <td></td>
-                <td></td>
-            </tr>
-            <tr></tr>
-            <tr>
-                <td>0</td>
-                <td>PROD = 0</td>
-            </tr>
-            <tr></tr>
-            <tr>
-                <td>9</td>
-                <td></td>
-            </tr>
-        </table>
+    <tr>
+        <th>Input Samples</th>
+        <th>Output Samples</th>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td>3</td>
+        <td>PROD = 27</td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td>9</td>
+        <td></td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td>-30</td>
+        <td>PROD = -300</td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td>10</td>
+        <td></td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td>0</td>
+        <td>PROD = 0</td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td>9</td>
+        <td></td>
+    </tr>
+</table>

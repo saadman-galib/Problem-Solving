@@ -43,10 +43,4 @@ Print the number and the employee's salary, according to the given example, with
         <td>6<br />145<br />15.55<br /></td>
         <td>NUMBER = 6<br />SALARY = U$ 2254.75<br /><br /></td>
     </tr>
-    <tr></tr>
-    <tr>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr></tr>
 </table>

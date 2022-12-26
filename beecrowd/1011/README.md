@@ -44,10 +44,6 @@ The output must be a message "VOLUME" like the following example with a space be
     <td>VOLUME = 14797486501.627</td>
 </tr>
 <tr></tr>
-<tr>
-    <td></td>
-    <td></td>
-</tr>
-<tr></tr>
+
 
 </table>

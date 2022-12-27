@@ -37,6 +37,6 @@ The output file must contain 5 lines of data. Each line corresponds to one of th
     <td>12.7 10.4 15.2<br /><br /><br /><br /><br /></td>
     <td>TRIANGULO: 96.520<br />CIRCULO: 725.833<br />TRAPEZIO: 175.560<br />QUADRADO: 108.160<br />RETANGULO: 132.080</td>
 </tr>
-<tr></tr>
+
 
 </table>

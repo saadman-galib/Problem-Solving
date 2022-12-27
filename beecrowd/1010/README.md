@@ -8,39 +8,39 @@ The input file contains two lines of data. In each line there will be 3 values: 
 The output file must be a message like the following example where "Valor a pagar" means Value to Pay. Remember the space after ":" and after "R$" symbol. The value must be presented with 2 digits after the point.
 
  <table>
-            <tr>
-                <th>Input Samples</th>
-                <th>Output Samples</th>
-            </tr>
-            <tr></tr>
-            <tr>
-                <td>12 1 5.30<br />16 2 5.10</td>
-                <td>VALOR A PAGAR: R$ 15.50<br /><br /></td>
-            </tr>
-            <tr></tr>
-            <tr>
-                <td></td>
-                <td></td>
-            </tr>
-            <tr></tr>
-            <tr>
-                <td>
-                    13 2 15.30<br />
-                    161 4 5.20
-                </td>
-                <td>VALOR A PAGAR: R$ 51.40<br /><br /></td>
-            </tr>
-            <tr></tr>
-            <tr>
-                <td></td>
-                <td></td>
-            </tr>
-            <tr></tr>
-            <tr>
-                <td>
-                    1 1 15.10<br />
-                    2 1 15.10
-                </td>
-                <td>VALOR A PAGAR: R$ 30.20<br /><br /></td>
-            </tr>
-        </table>
+    <tr>
+        <th>Input Samples</th>
+        <th>Output Samples</th>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td>12 1 5.30<br />16 2 5.10</td>
+        <td>VALOR A PAGAR: R$ 15.50<br /><br /></td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td>
+            13 2 15.30<br />
+            161 4 5.20
+        </td>
+        <td>VALOR A PAGAR: R$ 51.40<br /><br /></td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td>
+            1 1 15.10<br />
+            2 1 15.10
+        </td>
+        <td>VALOR A PAGAR: R$ 30.20<br /><br /></td>
+    </tr>
+</table>

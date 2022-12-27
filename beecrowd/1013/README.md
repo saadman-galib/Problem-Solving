@@ -34,6 +34,5 @@ Print the greatest of these three values followed by a space and the message “
     <td>217 14 6</td>
     <td>217 eh o maior</td>
 </tr>
-<tr></tr>
 
 </table>

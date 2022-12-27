@@ -13,33 +13,33 @@ The input file contains a text (employee's first name), and two double precision
 Print the seller's total salary, according to the given example.
 
 <table>
-            <tr>
-                <th>Input Samples</th>
-                <th>Output Samples</th>
-            </tr>
-            <tr></tr>
-            <tr>
-                <td>JOAO<br />500.00<br />1230.30</td>
-                <td>TOTAL = R$ 684.54<br /><br /><br /></td>
-            </tr>
-            <tr></tr>
-            <tr>
-                <td></td>
-                <td></td>
-            </tr>
-            <tr></tr>
-            <tr>
-                <td>PEDRO<br />700.00<br />0.00</td>
-                <td>TOTAL = R$ 700.00<br /><br /><br /></td>
-            </tr>
-            <tr></tr>
-            <tr>
-                <td></td>
-                <td></td>
-            </tr>
-            <tr></tr>
-            <tr>
-                <td>MANGOJATA <br />1700.00<br />1230.50</td>
-                <td>TOTAL = R$ 1884.58<br /><br /><br /></td>
-            </tr>
-        </table>
+    <tr>
+        <th>Input Samples</th>
+        <th>Output Samples</th>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td>JOAO<br />500.00<br />1230.30</td>
+        <td>TOTAL = R$ 684.54<br /><br /><br /></td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td>PEDRO<br />700.00<br />0.00</td>
+        <td>TOTAL = R$ 700.00<br /><br /><br /></td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td>MANGOJATA <br />1700.00<br />1230.50</td>
+        <td>TOTAL = R$ 1884.58<br /><br /><br /></td>
+    </tr>
+</table>

@@ -43,6 +43,6 @@ Present a value that represents the average consumption of a car with 3 digits a
     <td>4554<br />464.6</td>
     <td>9.802 km/l<br /><br /></td>
 </tr>
-<tr></tr>
+
 
 </table>

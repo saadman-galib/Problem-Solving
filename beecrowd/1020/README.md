@@ -45,6 +45,5 @@ Print the output, like the following example.
     <td>30<br /><br /><br /></td>
     <td>0 ano(s)<br />1 mes(es)<br />0 dia(s)</td>
 </tr>
-<tr></tr>
 
 </table>

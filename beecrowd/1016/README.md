@@ -47,6 +47,6 @@ Print the necessary time followed by the message "minutos" that means minutes in
     <td>7</td>
     <td>14 minutos</td>
 </tr>
-<tr></tr>
+
 
 </table>

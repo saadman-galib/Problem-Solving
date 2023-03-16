@@ -30,8 +30,10 @@ For each test case, output the total number of squats done by Somu.
     <td>3<br />1<br />4<br />99</td>
     <td>15<br />60<br />1485<br /><br /></td>
 </tr>
+</table>
 
 ### Explanation:
+
 #### Test Case 1: Since, he does only 11 set of squats, the total number of squats done by him is 1515.
 
 #### Test Case 2: Since, he does 44 sets of squats, the total number of squats is 15 + 15 + 15 + 15 = 6015+15+15+15=60.

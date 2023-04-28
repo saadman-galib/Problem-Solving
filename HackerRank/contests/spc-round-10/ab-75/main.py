@@ -10,7 +10,7 @@ for i in range(t):
     for i in range(2, value + 1):
         if i ** i == value:
             value_bool = True
-            break/
+            break
 
     if value_bool:
         print("yes")

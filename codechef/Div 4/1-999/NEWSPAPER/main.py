@@ -1,0 +1,1 @@
+print("YES" if int(input()) >= 8 else "NO")

@@ -1,0 +1,1 @@
+print("FOUND" if int(input()) != 404 else "NOT FOUND")

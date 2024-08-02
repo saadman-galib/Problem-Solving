@@ -15,7 +15,7 @@ int main() {
     }
 
     for (int i = 0; i < n; i++) {
-        total += (arr[i] >= arr[k - 1]) ? 1 : 0;
+        total += (arr[i] != 0 && arr[i] >= arr[k - 1]) ? 1 : 0;
     }
 
     cout << total << endl;
